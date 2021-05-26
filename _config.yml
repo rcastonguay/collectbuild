@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: hhttps://rcastonguay.github.io/
+url: https://rcastonguay.github.io/
 # baseurl is your github repository's name prefixed with a /
 baseurl: /collectbuild
 # location of code, the full url to your github repository
