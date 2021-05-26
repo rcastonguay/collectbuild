@@ -8,17 +8,17 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: hhttps://rcastonguay.github.io/
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /collectbuild
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/rcastonguay/collectbuild.git
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Remi is trying a new tool 
+title: Remi is trying a new tool
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
